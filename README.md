@@ -1,4 +1,4 @@
-![capa github](githubCover.png)
+![github cover](githubCover.png)
 
 <center>
   <table>
@@ -13,4 +13,4 @@
 
 💻 Software Engineer at [@luizalabs](https://github.com/luizalabs).
 
-✍️ Sometimes I write on my [blog](http://atmosmps.me).
+✍️ Sometimes i write on my [blog](http://atmosmps.me).
