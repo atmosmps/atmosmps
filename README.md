@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/atmosmps/atmosmps/master/wave.gif" width="30px" height="30px" />
 
-I am Atmos Maciel. Software engineer focused on the backend. I'm from São Luís do Maranhão, Brazil. More information at [https://atmosmps.me/](https://atmosmps.me/).
+I am Atmos Maciel. Software engineer focused on the backend. I'm from São Luís do Maranhão, Brazil. More information in my personal [website](https://atmosmps.me/).
 
 - 💻 Software Engineer at [@luizalabs](https://github.com/luizalabs).
 - &#x270d; Sometimes i write on my [blog](http://atmosmps.me/posts) or [here](https://blog.atmosmps.me/).
