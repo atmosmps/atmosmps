@@ -17,7 +17,7 @@ Focused on the backend web development. I'm from São Luís do Maranhão, Brazil
 
 ### Top tooling and platforms
 
-[![Top cloud providers](https://skillicons.dev/icons?i=kubernets,docker,git,argocd)](https://skillicons.dev)
+[![Top cloud providers](https://skillicons.dev/icons?i=kubernetes,docker,git,argocd)](https://skillicons.dev)
 
 ### Top databases
 
@@ -25,7 +25,7 @@ Focused on the backend web development. I'm from São Luís do Maranhão, Brazil
 
 ### Operating system
 
-[![Top cloud providers](https://skillicons.dev/icons?i=linux,ubuntu,debian,arch)](https://skillicons.dev)
+[![Top cloud providers](https://skillicons.dev/icons?i=linux)](https://skillicons.dev), `ubuntu,debian,arch`
 
 ---
 
