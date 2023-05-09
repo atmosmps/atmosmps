@@ -2,7 +2,7 @@
 
 *Focused on backend development.*
 
-![dev](https://cationth.sirv.com/Images/this_is_fine_capa_wg1a6r-1210x544.png?w=700)
+![dev](https://atmosmps.sirv.com/Images/this_is_fine_capa_wg1a6r-1210x544.png?w=700)
 
 - 🔭 I’m currently working on [@luizalabs](https://github.com/luizalabs).
 - 🌱 I’m currently learning computer topics in my master's program.
