@@ -7,7 +7,4 @@
 - 🔭 I’m currently working on [@luizalabs](https://github.com/luizalabs).
 - 🌱 I’m currently learning computer topics in my master's program.
 - 💬 Ask me about Python, Rust, Software Architecture, Microservices, Functional Programming and... related stuffs.
-- 📫 How to reach me: [Hashnode](https://hashnode.com/@atmosmps) `||` [Personal Page](https://bit.ly/atmosmps).
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: i like to run sometimes.
-- &#x270d; Sometimes i write on my blog.
+- 📫 How to reach me: [Personal Page](https://bit.ly/atmosmps).
