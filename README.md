@@ -7,4 +7,4 @@
 - 🔭 I’m currently working on [@luizalabs](https://github.com/luizalabs).
 - 🌱 I’m currently learning computer topics in my master's program.
 - 💬 Ask me about Python, Rust, Software Architecture, Microservices, Functional Programming and... related stuffs.
-- 📫 How to reach me: [Personal Page](https://bit.ly/atmosmps).
+- 📫 How to reach me: [Personal Page](https://atmosmps.github.io/).
