@@ -2,7 +2,15 @@
 
 *Software Engineer | Backend Developer*
 
+[comment]: ![dev](https://atmosmps.sirv.com/Images/this_is_fine_capa_wg1a6r-1210x544.png?w=700)
+
 ![dev](https://atmosmps.sirv.com/Images/this_is_fine_capa_wg1a6r-1210x544.png?w=700)
+
+<!---
+<p align="center">
+  <img src="https://atmosmps.sirv.com/Images/this_is_fine_capa_wg1a6r-1210x544.png?w=700" alt="dev life"/>
+</p>
+-->
 
 ---
 
