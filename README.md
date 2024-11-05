@@ -1,6 +1,4 @@
-## Atmos Maciel
-
-*Software Engineer | Backend Developer*
+### *Software Engineer | Backend Developer*
 
 ![dev](https://atmosmps.sirv.com/Images/this_is_fine_capa_wg1a6r-1210x544.png?w=700)
 
