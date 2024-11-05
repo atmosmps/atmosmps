@@ -2,11 +2,10 @@
 
 *Software Engineer | Backend Developer*
 
-[comment]: ![dev](https://atmosmps.sirv.com/Images/this_is_fine_capa_wg1a6r-1210x544.png?w=700)
-
 ![dev](https://atmosmps.sirv.com/Images/this_is_fine_capa_wg1a6r-1210x544.png?w=700)
 
 <!---
+[comment]: ![dev](https://atmosmps.sirv.com/Images/this_is_fine_capa_wg1a6r-1210x544.png?w=700)
 <p align="center">
   <img src="https://atmosmps.sirv.com/Images/this_is_fine_capa_wg1a6r-1210x544.png?w=700" alt="dev life"/>
 </p>
@@ -19,4 +18,4 @@
 - 💬 Ask me about Python, Rust, Software Architecture, Microservices, Functional Programming.
 - 🌐 All my links: [Beacons](https://beacons.ai/atmosmps).
 - 🦾 My training diary: [Strava](https://www.strava.com/athletes/44146428).
-- 📫 [Contact me here](https://atmosmps.hashnode.dev/contact-me).
+- 📫 Contact me via one of the links in my [github profile](https://github.com/atmosmps).
