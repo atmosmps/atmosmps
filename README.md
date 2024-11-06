@@ -14,6 +14,6 @@
 - 🔭 I’m currently working on [@luizalabs](https://github.com/luizalabs).
 - 🌱 I’m currently learning computer topics in my master's program.
 - 💬 Ask me about Python, Rust, Software Architecture, Microservices, Functional Programming.
-- 🌐 All my links: [Beacons](https://beacons.ai/atmosmps).
+- 🌐 My place on internet: [Personal Page](https://atmosmps.github.io/).
 - 🦾 My training diary: [Strava](https://www.strava.com/athletes/44146428).
 - 📫 Contact me via one of the links in my [github profile](https://github.com/atmosmps).
